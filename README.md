@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lujuny
-- 👀 I’m interested in writing codes
-- 🌱 I’m currently learning Data Structure and algorithm
+- 👀 I’m interested in vibe coding
+- 🌱 I’m currently learning  algorithm
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
